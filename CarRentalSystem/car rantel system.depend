@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1590080495 source:c:\users\vishal saini\desktop\car rantel system\car.c
+	"conio2.h"
+	<stdio.h>
+	<string.h>
+	"car.h"
+	<stdlib.h>
+	<time.h>
+	"style.h"
+	<math.h>
+
+1587317127 c:\users\vishal saini\desktop\car rantel system\conio2.h
+	<conio.h>
+	<windows.h>
+
+1588134125 c:\users\vishal saini\desktop\car rantel system\car.h
+	<time.h>
+
+1587911288 c:\users\vishal saini\desktop\car rantel system\style.h
+
+1587317194 source:c:\users\vishal saini\desktop\car rantel system\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1590227777 source:c:\users\vishal saini\desktop\car rantel system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio2.h"
+	<string.h>
+	"car.h"
+	"style.h"
+
+1588151881 source:c:\users\vishal saini\desktop\car rantel system\style.c
+	"conio2.h"
+	<stdio.h>
+	<string.h>
+	"style.h"
+
+1590737111 source:c:\users\vishal saini\downloads\vishalsainivs.github.io-master\carrentalsystem\car.c
+	"conio2.h"
+	<stdio.h>
+	<string.h>
+	"car.h"
+	<stdlib.h>
+	<time.h>
+	"style.h"
+	<math.h>
+
+1590737111 c:\users\vishal saini\downloads\vishalsainivs.github.io-master\carrentalsystem\conio2.h
+	<conio.h>
+	<windows.h>
+
+1590737111 c:\users\vishal saini\downloads\vishalsainivs.github.io-master\carrentalsystem\car.h
+	<time.h>
+
+1590747109 c:\users\vishal saini\downloads\vishalsainivs.github.io-master\carrentalsystem\style.h
+
+1590737111 source:c:\users\vishal saini\downloads\vishalsainivs.github.io-master\carrentalsystem\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1590747109 source:c:\users\vishal saini\downloads\vishalsainivs.github.io-master\carrentalsystem\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio2.h"
+	<string.h>
+	"car.h"
+	"style.h"
+
+1590747880 source:c:\users\vishal saini\downloads\vishalsainivs.github.io-master\carrentalsystem\style.c
+	"conio2.h"
+	<stdio.h>
+	<string.h>
+	"style.h"
+
